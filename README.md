@@ -1,9 +1,6 @@
 # With Docker
 
 
-Application ECORIDE :
-
-https://ecoride-app-mu.vercel.app
 
 
 containers:
